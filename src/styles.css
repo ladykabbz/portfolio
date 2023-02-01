@@ -1,3 +1,57 @@
-h1 {
-  color: blue;
+.navbar-brand {
+  font-family: "Explora", cursive;
+  color: brown !important;
+  font-size: 48px !important;
+  padding-left: 0 !important;
+}
+body {
+  background: linear-gradient(
+    87.4deg,
+    rgb(255, 241, 165) 1.9%,
+    rgb(200, 125, 76) 49.7%,
+    rgb(83, 54, 54) 100.5%
+  );
+}
+img {
+  size: 10px !important;
+}
+h1,
+h4 {
+  color: white;
+  font-family: "Bodoni Moda", serif;
+}
+span {
+  font-weight: bold;
+}
+h2 {
+  font-family: "Explora", cursive;
+  font-weight: bold !important;
+  color: #402a23;
+  text-align: center;
+  text-decoration: underline;
+}
+.navigation-links {
+  display: flex;
+  justify-content: space-evenly;
+  font-family: "Bodoni Moda", serif;
+}
+.primary-link,
+.secondary-link,
+.tertiary-link {
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+  background: #94784c;
+  box-shadow: black solid;
+  color: white;
+}
+.kitty-app {
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+  background: #94784c;
+  box-shadow: black solid;
+  color: white;
 }
