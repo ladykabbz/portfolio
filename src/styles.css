@@ -15,21 +15,50 @@ body {
 img {
   size: 10px !important;
 }
-h1,
+
+h1 {
+  color: white;
+  font-family: "Bodoni Moda", serif;
+  font-size: 40px !important;
+}
 h4 {
   color: white;
   font-family: "Bodoni Moda", serif;
+  font-size: 28px !important;
+}
+.weather-border {
+  border: #94784c solid 1px;
+  border-radius: 15px;
+}
+.ml5 {
+  color: white;
+  font-family: "Bodoni Moda", serif;
+  font-size: 28px !important;
+}
+.ml7 {
+  font-size: 40px !important;
 }
 span {
   font-weight: bold;
 }
 h2 {
-  font-family: "Explora", cursive;
+  font-family: "Bodoni Moda", serif;
   font-weight: bold !important;
+  font-size: 38px !important;
   color: #402a23;
   text-align: center;
   text-decoration: underline;
 }
+
+.heading {
+  font-family: "Bodoni Moda", serif;
+  font-weight: bold !important;
+  font-size: 22px !important;
+  color: #402a23;
+  text-align: center;
+  text-decoration: underline white;
+}
+
 .navigation-links {
   display: flex;
   justify-content: space-evenly;
@@ -46,6 +75,7 @@ h2 {
   box-shadow: black solid;
   color: white;
 }
+.piyotero-app,
 .kitty-app {
   border-radius: 4px;
   padding: 20px 15px;
@@ -54,4 +84,76 @@ h2 {
   background: #94784c;
   box-shadow: black solid;
   color: white;
+}
+.ml5 {
+  position: relative;
+  font-weight: 300;
+  font-size: 4.5em;
+  color: #402d2d;
+}
+
+.ml5 .text-wrapper {
+  position: relative;
+  display: inline-block;
+  padding-top: 0.1em;
+  padding-right: 0.05em;
+  padding-bottom: 0.15em;
+  line-height: 1em;
+}
+
+.ml5 .line {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  height: 3px;
+  width: 100%;
+  background-color: #402d2d;
+  transform-origin: 0.5 0;
+}
+
+.ml5 .ampersand {
+  font-family: Baskerville, serif;
+  font-style: italic;
+  font-weight: 400;
+  width: 1em;
+  margin-right: -0.1em;
+  margin-left: -0.1em;
+}
+
+.ml5 .letters {
+  display: inline-block;
+  opacity: 0;
+}
+.ml7 {
+  position: relative;
+  font-weight: 900;
+  font-size: 3.7em;
+}
+.ml7 .text-wrapper {
+  position: relative;
+  display: inline-block;
+  padding-top: 0.2em;
+  padding-right: 0.05em;
+  padding-bottom: 0.1em;
+  overflow: hidden;
+}
+.ml7 .letter {
+  transform-origin: 0 100%;
+  display: inline-block;
+  line-height: 1em;
+}
+.piyo {
+  color: #402d2d;
+  font-family: "Bodoni Moda", serif;
+  font-size: 28px !important;
+}
+.heading-2 {
+  font-family: "Bodoni Moda", serif;
+  font-weight: bold !important;
+  font-size: 22px !important;
+  color: white;
+  text-align: center;
+  text-decoration: underline #402a23;
 }
