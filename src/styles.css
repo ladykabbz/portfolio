@@ -11,7 +11,10 @@
 }
 body {
   background: var(--background-color);
+
+  max-width: 100%;
 }
+
 img {
   size: 10px !important;
 }
