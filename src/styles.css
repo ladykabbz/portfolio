@@ -38,7 +38,7 @@ h4 {
 .ml5 {
   color: var(--text-color);
   font-family: "Bodoni Moda", serif;
-  font-size: 28px !important;
+  font-size: 30px !important;
 }
 .ml7 {
   font-size: 40px !important;
@@ -71,7 +71,10 @@ h2 {
 }
 .primary-link,
 .secondary-link,
-.tertiary-link {
+.tertiary-link,
+.primary-link-2,
+.secondary-link-2,
+.tertiary-link-2 {
   border-radius: 4px;
   padding: 20px 15px;
   text-decoration: none;
@@ -162,6 +165,66 @@ h2 {
   text-align: center;
   text-decoration: underline #402a23;
 }
-.navigation-links :hover {
+.navigation-links :hover,
+.shecodes:hover {
   color: black;
+}
+
+.about-1 {
+  color: #402a23;
+  font-weight: bold;
+  font-family: "Bodoni Moda", serif;
+  font-size: 36px !important;
+  text-decoration: underline #402d2d;
+  text-align: center;
+}
+.about-2 {
+  color: #402a23;
+  font-weight: bold !important;
+  font-family: "Bodoni Moda", serif;
+  font-size: 24px !important;
+  text-decoration: underline #402d2d;
+}
+.about-3 {
+  color: var(--text-color);
+  font-family: "Bodoni Moda", serif;
+  font-size: 28px;
+}
+.img-fluid {
+  border-radius: 50% !important;
+  width: 400px !important;
+}
+.shecodes {
+  color: #755e39;
+  font-weight: bold;
+  font-size: 18px;
+}
+.ml10 {
+  position: relative;
+  font-weight: 900;
+  font-size: 4em;
+}
+
+.ml10 .text-wrapper {
+  position: relative;
+  display: inline-block;
+  padding-top: 0.2em;
+  padding-right: 0.05em;
+  padding-bottom: 0.1em;
+  overflow: hidden;
+}
+
+.ml10 .letter {
+  display: inline-block;
+  line-height: 1em;
+  transform-origin: 0 0;
+}
+.contact-3 {
+  font-family: "Bodoni Moda", serif;
+  font-size: 28px;
+  color: #4e3918;
+  font-weight: bold;
+}
+.name-link {
+  color: white;
 }
