@@ -231,3 +231,15 @@ h2 {
 .resume-1 {
   text-align: center;
 }
+.nav-item {
+  font-weight: bold !important;
+  display: flex;
+  justify-content: center !important;
+  font-family: "Bodoni Moda", serif;
+}
+.nav-link {
+  color: #9c7433 !important;
+}
+.nav-link:hover {
+  color: #402a23 !important;
+}
