@@ -21,12 +21,12 @@ img {
 
 h1 {
   color: var(--text-color);
-  font-family: "Bodoni Moda", serif;
+  font-family: "Instrument Serif", serif;
   font-size: 40px !important;
 }
 h4 {
   color: white;
-  font-family: "Bodoni Moda", serif;
+  font-family: "Instrument Serif", serif;
   font-size: 28px !important;
 }
 .weather-border {
@@ -37,7 +37,7 @@ h4 {
 }
 .ml5 {
   color: var(--text-color);
-  font-family: "Bodoni Moda", serif;
+  font-family: "Instrument Serif", serif;
   font-size: 30px !important;
 }
 .ml7 {
@@ -47,7 +47,7 @@ span {
   font-weight: bold;
 }
 h2 {
-  font-family: "Bodoni Moda", serif;
+  font-family: "Instrument Serif", serif;
   font-weight: bold !important;
   font-size: 38px !important;
   color: #402a23;
@@ -56,7 +56,7 @@ h2 {
 }
 
 .heading {
-  font-family: "Bodoni Moda", serif;
+  font-family: "Instrument Serif", serif;
   font-weight: bold !important;
   font-size: 22px !important;
   color: var(--header-color);
@@ -67,7 +67,7 @@ h2 {
 .navigation-links {
   display: flex;
   justify-content: space-evenly;
-  font-family: "Bodoni Moda", serif;
+  font-family: "Instrument Serif", serif;
 }
 .primary-link,
 .secondary-link,
@@ -154,11 +154,11 @@ h2 {
 }
 .piyo {
   color: var(--text-color);
-  font-family: "Bodoni Moda", serif;
+  font-family: "Instrument Serif", serif;
   font-size: 28px !important;
 }
 .heading-2 {
-  font-family: "Bodoni Moda", serif;
+  font-family: "Instrument Serif", serif;
   font-weight: bold !important;
   font-size: 22px !important;
   color: var(--header-color);
@@ -173,7 +173,7 @@ h2 {
 .about-1 {
   color: #402a23;
   font-weight: bold;
-  font-family: "Bodoni Moda", serif;
+  font-family: "Instrument Serif", serif;
   font-size: 36px !important;
   text-decoration: underline #402d2d;
   text-align: center;
@@ -181,13 +181,13 @@ h2 {
 .about-2 {
   color: #402a23;
   font-weight: bold !important;
-  font-family: "Bodoni Moda", serif;
+  font-family: "Instrument Serif", serif;
   font-size: 24px !important;
   text-decoration: underline #402d2d;
 }
 .about-3 {
   color: var(--text-color);
-  font-family: "Bodoni Moda", serif;
+  font-family: "Instrument Serif", serif;
   font-size: 28px;
 }
 .img-fluid {
@@ -220,7 +220,7 @@ h2 {
   transform-origin: 0 0;
 }
 .contact-3 {
-  font-family: "Bodoni Moda", serif;
+  font-family: "Instrument Serif", serif;
   font-size: 28px;
   color: #4e3918;
   font-weight: bold;
@@ -235,7 +235,7 @@ h2 {
   font-weight: bold !important;
   display: flex;
   justify-content: center !important;
-  font-family: "Bodoni Moda", serif;
+  font-family: "Instrument Serif", serif;
 }
 .nav-link {
   color: #9c7433 !important;
