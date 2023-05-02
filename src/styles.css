@@ -30,10 +30,8 @@ h4 {
   font-size: 28px !important;
 }
 .weather-border {
-  border: #4e3918 solid 4px;
-  border-radius: 15px;
-  padding: 20px;
-  background: #b99862;
+  padding: 10px;
+  background: #b18c55;
 }
 .ml5 {
   color: var(--text-color);
