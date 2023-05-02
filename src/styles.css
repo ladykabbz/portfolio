@@ -181,13 +181,13 @@ h2 {
 .about-2 {
   color: #402a23;
   font-weight: bold !important;
-  font-family: "Instrument Serif", serif;
+  font-family: "Instrument Serif", serif 1;
   font-size: 24px !important;
   text-decoration: underline #402d2d;
 }
 .about-3 {
   color: var(--text-color);
-  font-family: "Instrument Serif", serif;
+  font-family: "Instrument Serif", serif !important;
   font-size: 28px;
 }
 .img-fluid {
