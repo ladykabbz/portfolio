@@ -241,3 +241,19 @@ h2 {
 .nav-link:hover {
   color: #402a23 !important;
 }
+.afrotechimage {
+  transform: translate(0px);
+  animation: float 3s ease-out infinite;
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-60px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
