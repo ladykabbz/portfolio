@@ -1,10 +1,3 @@
-function Done(event) {
-  event.preventDefault();
-  alert("oops!☹project works still ongoing.Check out other projects");
-}
-
-let woodlink = document.querySelector("woodworks");
-woodlink.addEventListener("click", Done);
 //
 anime
   .timeline({ loop: true })
