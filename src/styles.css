@@ -333,3 +333,8 @@ h2 {
 .card-btn:hover {
   background: #b18c55 !important;
 }
+.btn-link {
+  color: black !important;
+  font-weight: 600 !important;
+  text-decoration: none !important;
+}
