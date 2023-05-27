@@ -5,10 +5,9 @@
 }
 .navbar-brand {
   font-family: "Explora", cursive;
-  color: #4e3918 !important;
+  color: brown !important;
   font-size: 48px !important;
   padding-left: 0 !important;
-  font-weight: bold;
 }
 body {
   background: var(--background-color);
