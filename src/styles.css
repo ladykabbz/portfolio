@@ -22,7 +22,7 @@ img {
 }
 
 h1 {
-  color: var(--text-color);
+  color: #423115;
   font-family: "Instrument Serif", serif;
   font-size: 30px !important;
 }
@@ -189,7 +189,7 @@ h2 {
   text-decoration: underline #402d2d;
 }
 .about-3 {
-  color: var(--text-color);
+  color: #423115;
   font-family: "Instrument Serif", serif !important;
   font-size: 28px;
 }
@@ -229,7 +229,7 @@ h2 {
   font-weight: bold;
 }
 .name-link {
-  color: white;
+  color: #743b3b;
 }
 .resume-1 {
   text-align: center;
