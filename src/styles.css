@@ -10,7 +10,11 @@
   padding-left: 0 !important;
 }
 body {
-  background: var(--background-color);
+  background-image: url(/images/woodwallpaper.jpg);
+  background-position: center;
+  max-width: 100%;
+  max-height: 100%;
+  background-attachment: fixed;
 }
 
 img {
@@ -361,7 +365,7 @@ h2 {
 }
 .final {
   background: white;
-  padding: 30px;
+  padding: 6px;
   text-align: center;
 }
 .finalname {
@@ -391,19 +395,15 @@ ul {
   font-size: 18px !important;
   font-family: "Instrument Serif", serif;
 }
+.finalink:hover {
+  color: #94784c;
+}
 
 .content {
   position: relative;
   z-index: 1;
   padding-bottom: 10px;
-  /* Add styles for your content here */
 }
-#background-video {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  z-index: -1; /* Ensure the video stays behind other elements */
+.partwo {
+  text-align: center;
 }
