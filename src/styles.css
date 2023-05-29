@@ -12,8 +12,7 @@
 body {
   background-image: url(/images/woodwallpaper.jpg);
   background-position: center;
-  max-width: 100%;
-  max-height: 100%;
+  overflow-x: hidden;
   background-attachment: fixed;
   background-repeat: no-repeat;
 }
