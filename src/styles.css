@@ -25,6 +25,7 @@ h1 {
   color: #423115;
   font-family: "Instrument Serif", serif;
   font-size: 30px !important;
+  font-weight: bold !important;
 }
 h4 {
   color: white;
@@ -404,4 +405,7 @@ ul {
 }
 .partwo {
   text-align: center;
+}
+.picha {
+  padding: 18px;
 }
