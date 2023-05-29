@@ -347,8 +347,6 @@ h2 {
   color: rgb(236, 111, 132);
 }
 .skills {
-  display: flex;
-  justify-content: space-evenly;
   width: 200;
   padding: 10px;
   background: #94784c;
