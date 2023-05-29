@@ -20,7 +20,7 @@ body {
 @media (max-width: 768px) {
   body {
     background-attachment: fixed;
-    background-position: top center;
+    background-position: center center;
     overflow-x: hidden;
   }
 }
