@@ -21,6 +21,7 @@ body {
   body {
     background-attachment: fixed;
     background-position: top center;
+    overflow-x: hidden;
   }
 }
 
